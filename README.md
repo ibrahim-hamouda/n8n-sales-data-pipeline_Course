@@ -24,7 +24,4 @@ This project is an end-to-end automated data pipeline built in **n8n**. It extra
 *(Demonstrates dynamic variable injection and binary file handling)*
 ![Email Output](Screenshot%20from%202026-10-31%2014-17-26.png)
 
-## Certification
-* **Credential:** n8n Academy - Essentials: Your First Workflows
-* **Author:** Ibrahim Hamouda
-![Certificate](Screenshot%20from%202026-10-31%2014-29-35.png)
+
